@@ -110,11 +110,12 @@ Disse opslag er formelt lukkede men dokumenterer, hvilke typer virksomheder der 
 
 ### 3. COO — Performativ
 **Status:** `Evalueret — DIREKTE HENVENDELSE ANBEFALES STÆRKT`
-**Virksomhed:** Performativ — AI-native wealth management software (fintech SaaS), ~44 ansatte. Rejste €14M Serie A april 2026. Kontorer i Kbh, London, Amsterdam, Zürich.
+**Virksomhed:** Performativ — AI-native wealth management software (fintech SaaS), ~50 ansatte. Rejste €14M Serie A april 2026. Kontorer i Kbh, London, Amsterdam, Zürich.
 **Lokation:** Kronprinsensgade 2, København (med rejse)
 **Kontrakttype:** Fuldtid + equity + bonus
 **Status:** Lukket (opslaget fjernet)
 **Kilde:** [eifo.dk](https://jobs.eifo.dk/companies/performativ/jobs/55787236-chief-operating-officer)
+**Forberedelsessession:** [sessions/performativ/](sessions/performativ/) — company research, outreach-skabeloner, interviewforberedelse
 
 **Beskrivelse (fra opslag):**
 - Lede eksekvering af vækststrategi på tværs af revenue operations, onboarding, finance, reporting og people
