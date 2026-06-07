@@ -29,48 +29,7 @@ Søgning baseret på profil: COO / VP Operations / Head of Strategy & Operations
 
 ## 🟢 Aktive / Potentielt Aktive Stillinger
 
-### 1. Chief of Staff — CVX Ventures
-**Status:** `LUKKET`
-**Virksomhed:** CVX Ventures (Europas "hurtigst voksende" venture investor-netværk — 700+ angel-investorer, DKK 800M+ investeret i 100+ virksomheder)
-**Lokation:** København
-**Kontrakttype:** Fuldtid
-**Løn:** Grundløn + performancebonus (beløb ikke oplyst)
-**Opslaget:** Oprettet juni 2025 — stadig aktivt listeplaceret pr. juni 2026
-**Kilde:** [startup.jobs](https://startup.jobs/chief-of-staff-cvx-ventures-denmark-cvx-ventures-6215013) · [greenhouse.io](https://job-boards.greenhouse.io/cvx/jobs/6600987003) · [LinkedIn](https://dk.linkedin.com/jobs/view/chief-of-staff-cvx-ventures-denmark-at-cvx-ventures-4144743771)
-
-**Beskrivelse:**
-Strategisk lederstilling med ansvar for at drive CVX's danske division. Rollen kombinerer strategi, eksekvering og team-ledelse og indebærer bl.a.:
-- Ansvar for vision og P&L for den danske division
-- Lede et team på ~15 medarbejdere (sales, board management, events, marketing)
-- Sourcen og lede investeringer — deal-flow til closing
-- Bygge og vedligeholde partnerskabsnetværk
-- Repræsentere CVX ved industry events
-
-**Krav:**
-- 5+ års erfaring fra management consulting, investment banking, VC eller high-growth startups
-- Flydende dansk og engelsk
-- Erfaring med at nå revenue targets og lede teams
-- Interesse for venture capital og startup-økosystemet
-- Eksisterende netværk i det danske startup-miljø er en fordel
-
-**Detaljeret Evaluering:**
-
-| Dimension | Score | Kommentar |
-|---|---|---|
-| Rolle-fit | ⭐⭐⭐⭐ | Chief of Staff er en target-rolle. P&L-ansvar og teamledelse passer med COO-erfaring |
-| Virksomheds-fit | ⭐⭐ | CVX er et investor-netværk, ikke et tech/SaaS scale-up — domænet er grundlæggende anderledes |
-| Geografi | ⭐⭐⭐⭐⭐ | København — ideelt |
-| Kultur | ⭐⭐⭐ | Sandsynligvis entrepreneuriel og tempofyldt, men investor/VC-fokus kan virke anderledes |
-| Kompensation | ⭐⭐⭐ | Bonus-struktur antyder performance-afhængighed — potentielt interessant |
-| Strategisk værdi | ⭐⭐⭐⭐ | Adgang til 100+ porteføljeselskaber — kan åbne COO-muligheder i scale-ups |
-
-**Vurdering:** ⭐⭐⭐ — Rollen matcher delvist profilen, men CVX er et investor-netværk, ikke et operationelt scale-up. Deal-flow og investorrelationer kræver erfaring profilen ikke primært har. Den store strategiske fordel: adgang til CVX's portefølje af 100+ startups kan åbne direkte COO/CoS-mandater i scale-ups. **Ansøg, men frame ansøgning mod den operationelle erfaring med at skalere SaaS-virksomheder og interesse for at hjælpe porteføljeselskaber med at vokse.**
-
-**Ansøgningsvinkel:** Fremhæv: Performativ/Timely COO-erfaring med SaaS ARR-vækst, TDC-transformation, OKR-implementation. Vis interesse for startup-økosystemet og evnen til at rådgive porteføljeselskaber operationelt.
-
----
-
-### 2. Strategy Manager / Chief of Staff — Copenhagen Infrastructure Partners (CIP)
+### 1. Strategy Manager / Chief of Staff — Copenhagen Infrastructure Partners (CIP)
 **Status:** `Evalueret — ANSØG NU`
 **Virksomhed:** Copenhagen Infrastructure Partners — verdens største dedikerede renewable energy-fondforvalter (offshore wind, greenfield investeringer)
 **Lokation:** København
@@ -112,6 +71,16 @@ En to-faset rolle: starter som Strategy Manager og udvikler sig til Chief of Sta
 ## 🟡 Nyligt Lukkede Stillinger (Market Intelligence)
 
 Disse opslag er formelt lukkede men dokumenterer, hvilke typer virksomheder der aktivt rekrutterer til lignende roller. Relevante for proaktiv henvendelse og som reference til fremtidige opslag.
+
+---
+
+### Chief of Staff — CVX Ventures
+**Status:** `Lukket — bekræftet juni 2026`
+**Virksomhed:** CVX Ventures — Europas "hurtigst voksende" venture investor-netværk (700+ angel-investorer, DKK 800M+ investeret i 100+ virksomheder)
+**Lokation:** København
+**Kilde:** [greenhouse.io](https://job-boards.greenhouse.io/cvx/jobs/6600987003)
+
+Stillingen kombinerede strategi, eksekvering og teamledelse med P&L-ansvar for den danske division (~15 medarbejdere). Domænet (investor-netværk) var anderledes end målprofilen, men adgang til 100+ porteføljeselskaber var den strategiske værdi. **CVX er relevant for proaktiv henvendelse** — porteføljekontakt kan åbne COO/CoS-mandater i scale-ups.
 
 ---
 
