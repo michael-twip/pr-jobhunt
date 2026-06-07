@@ -12,55 +12,15 @@ Søgning baseret på profil: COO / VP Operations / Head of Strategy & Operations
 | **🔴 1** | COO (lukket opslag) | Performativ | Direkte henvendelse til CEO nu | ASAP |
 | **🔴 2** | Chief of Staff | CVX Ventures | Ansøg via Greenhouse | Inden 2 uger |
 | **🔴 3** | Strategy Manager → CoS | CIP | Ansøg via CIP Workday portal | Inden 2 uger |
-| **⚪ 4** | Chief of Staff (lukket) | Legora | Lukket — proaktiv henvendelse til Head of Ops | — |
-| **🟡 5** | COO/Head of Ops (lukket) | GreenMobility | Direkte mail til CEO Thomas Heltborg Juul | Inden 1 måned |
-| **🟡 6** | Chief of Staff (lukket) | Sanna | Direkte henvendelse til CEO | Inden 1 måned |
-| **⚪ 7** | Chief of Staff (lukket) | proprty.ai | Lav-prioritet — for lille | Evt. |
-| **⚪ 8** | Head of Op. Transformation (lukket) | CPH | Lukket — market intelligence only | — |
-| **⚪ 9** | Sr. Manager Strategy & Ops (lukket) | Visa/Pismo | Lukket — market intelligence only | — |
+| **🟡 4** | COO/Head of Ops (lukket) | GreenMobility | Direkte mail til CEO Thomas Heltborg Juul | Inden 1 måned |
+| **🟡 5** | Chief of Staff (lukket) | Sanna | Direkte henvendelse til CEO | Inden 1 måned |
+| **⚪ 6** | Chief of Staff (lukket) | proprty.ai | Lav-prioritet — for lille | Evt. |
+| **⚪ 7** | Head of Op. Transformation (lukket) | CPH | Lukket — market intelligence only | — |
+| **⚪ 8** | Sr. Manager Strategy & Ops (lukket) | Visa/Pismo | Lukket — market intelligence only | — |
 
 ---
 
 ## 🟢 Aktive / Potentielt Aktive Stillinger
-
-### 0. Chief of Staff — Legora AB
-**Status:** `Evalueret — Lukket (bekræftet 7. juni 2026)`
-**Virksomhed:** Legora AB — AI-native workspace for juridiske fagfolk. Brugt af Cleary Gottlieb, Goodwin, Bird & Bird og Linklaters i 50+ markeder. Tidligere kendt som Leya.
-**Lokation:** Stockholm, Sverige
-**Kontrakttype:** Fuldtid
-**Løn:** Ikke oplyst
-**Opslaget:** Opslaget fjernet — sandsynligvis besat
-**Kilde:** [legora.com/careers](https://legora.com/careers) (kun Staff Engineer-roller synlige pr. 7. juni 2026)
-
-**Virksomhedens profil:**
-- Grundlagt 2023, Stockholm-baseret
-- Funding: $866M samlet rejst — seneste runde $550M Series D (april 2026)
-- Valuation: ~$5,6 mia. USD (unicorn)
-- ~400 ansatte globalt (Stockholm, London, New York, Denver, Sydney, Bengaluru)
-- Vokser hurtigt mod USA-markedet, men har stærk europæisk base
-
-**Beskrivelse (rolle):**
-Chief of Staff til Head of Operations og management team. Rollen er beskrevet som "operator, force multiplier, and trusted partner across Legora's operations." Formentlig indebærer det:
-- Eksekvering af strategiske initiativer på tværs af organisationen
-- Forberedelse af executive-materialer og governance
-- Drifte tværfunktionelle projekter i en hypervoksende unicorn
-
-**Detaljeret Evaluering:**
-
-| Dimension | Score | Kommentar |
-|---|---|---|
-| Rolle-fit | ⭐⭐⭐⭐ | Chief of Staff til Head of Operations er en target-rolle. Force multiplier-framing er stærk |
-| Virksomheds-fit | ⭐⭐⭐⭐ | AI-native SaaS, ~400 ansatte (i profil-vinduet), hypervækst-unicorn. Legaltech-domænet er nyt, men AI + enterprise SaaS er direkte relevant |
-| Geografi | ⭐⭐⭐ | Stockholm — inden for "Norden"-kriterie, men kræver relokering eller pendling. Ca. 1 time med fly fra København |
-| Kultur | ⭐⭐⭐⭐ | Hurtigtvoksende unicorn, entrepreneuriel, international. Sandsynligvis høj pace og ambitiøst miljø |
-| Kompensation | ⭐⭐⭐⭐⭐ | Unicorn-equity er potentielt meget værdifuldt. Legora på vej mod børsnotering el. exit |
-| Strategisk værdi | ⭐⭐⭐⭐⭐ | CoS i $5,6 mia. unicorn er ekstremt stærkt CV-skridt — åbner døre i hele det europæiske scale-up-miljø |
-
-**Vurdering:** ⭐⭐⭐⭐ — Legora er én af Europas mest imponerende scale-ups (unicorn, $5,6 mia. valuation, 400 ansatte). Rollen er lukket, men Legora er stærk kandidat til proaktiv henvendelse — de vokser hurtigt og behovet for operationel ledelse vil komme igen. **Relevante kontakter:** "Vilgot" er nævnt som Head of Ops — find via LinkedIn.**
-
-**Proaktiv outreach:** Legora vokser kraftigt og har sandsynligvis løbende behov for operationelt lederskab. Henvendelse til Head of Operations (Vilgot) om kommende CoS/ops-roller kan være værd at forsøge.
-
----
 
 ### 1. Chief of Staff — CVX Ventures
 **Status:** `Evalueret — ANSØG NU`
@@ -145,6 +105,15 @@ En to-faset rolle: starter som Strategy Manager og udvikler sig til Chief of Sta
 ## 🟡 Nyligt Lukkede Stillinger (Market Intelligence)
 
 Disse opslag er formelt lukkede men dokumenterer, hvilke typer virksomheder der aktivt rekrutterer til lignende roller. Relevante for proaktiv henvendelse og som reference til fremtidige opslag.
+
+---
+
+### Chief of Staff — Legora AB
+**Status:** `Lukket — fjernet fra opslag 17. februar 2026`
+**Virksomhed:** Legora AB — AI-native legaltech workspace (unicorn), Stockholm, ~400 ansatte, $5,6 mia. valuation, Series D ($550M, april 2026)
+**Kilde:** [builtin.com](https://builtin.com/job/chief-staff/8247155) (bekræftet lukket)
+
+Rollen var CoS til Head of Operations og management team. Stærkt match på rolle og virksomhedsprofil. **Legora er relevant for proaktiv henvendelse** — de vokser hurtigt og behovet vil sandsynligvis opstå igen. Find Head of Ops (Vilgot) på LinkedIn.
 
 ---
 
