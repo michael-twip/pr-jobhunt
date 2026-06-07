@@ -22,7 +22,8 @@ Do not include opportunities that are  marked as closed in any of the job search
 
 Before adding a job opportunity to `found_jobs.md`, you **must** verify that the position is genuinely open using at least two of the following methods:
 
-1. **Fetch the company's own careers page** (e.g. `company.com/careers`) and confirm the role is listed there right now.
+1. **Fetch the company's own careers page** (e.g. `company.com/careers`) and confirm the role is listed there right now. If the page url for the position is a 404, or contains language such as "removed", "expired", "no longer available", or similar, the position should be marked as `Lukket` and moved to the market intelligence section rather than the active section. If the position is listed but marked as closed, it should also be marked as `Lukket` and moved to the market intelligence section rather than the active section. If the position is listed and appears open, it can be added to the active section of `found_jobs.md`.
+
 2. **Fetch the direct job posting URL** and confirm it does not show "removed", "expired", "no longer available", or similar language.
 3. **Check a secondary source** (e.g. builtin.com, LinkedIn, Glassdoor, greenhouse.io, ashbyhq.com) and confirm the listing is active — not cached or closed.
 

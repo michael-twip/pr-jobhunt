@@ -1,5 +1,5 @@
 # Fundne Job Muligheder
-*Opdateret: 7. juni 2026 — Ny søgerunde gennemført*
+*Opdateret: 7. juni 2026 — Søgerunde gennemført; Legora CoS bekræftet lukket (URL 404)*
 
 Søgning baseret på profil: COO / VP Operations / Head of Strategy & Operations / Chief of Staff — nordisk/europæisk tech/SaaS scale-up (50–500 medarbejdere), vækst- eller transformationsfase. Geografisk fokus: Sjælland og Norden. Åben for remote og rejse.
 
@@ -85,11 +85,11 @@ Stillingen kombinerede strategi, eksekvering og teamledelse med P&L-ansvar for d
 ---
 
 ### Chief of Staff — Legora AB
-**Status:** `Lukket — fjernet fra opslag 17. februar 2026`
+**Status:** `Lukket — bekræftet juni 2026`
 **Virksomhed:** Legora AB — AI-native legaltech workspace (unicorn), Stockholm, ~400 ansatte, $5,6 mia. valuation, Series D ($550M, april 2026)
-**Kilde:** [builtin.com](https://builtin.com/job/chief-staff/8247155) (bekræftet lukket)
+**Kilde:** [builtin.com](https://builtin.com/job/chief-staff/8247155) (bekræftet lukket feb 2026) · Ashby-opslag b2c2e7a3 bekræftet 404 juni 2026
 
-Rollen var CoS til Head of Operations og management team. Stærkt match på rolle og virksomhedsprofil. **Legora er relevant for proaktiv henvendelse** — de vokser hurtigt og behovet vil sandsynligvis opstå igen. Find Head of Ops (Vilgot) på LinkedIn.
+Rollen var CoS til Head of Operations og management team. Søgemaskiner viste opslaget som aktivt i juni 2026, men URL bekræftet fjernet. **Legora er fortsat relevant for proaktiv henvendelse** — de vokser hurtigt ($100M+ ARR, Series D) og behovet vil sandsynligvis opstå igen. Find Head of Ops på LinkedIn.
 
 ---
 
@@ -269,17 +269,16 @@ Hold disse sider under løbende opsyn — roller i målgruppen dukker op og fors
 
 | Platform | URL | Hvad at søge |
 |---|---|---|
-| **The Hub** | [thehub.io/jobs?countryCode=DK&roles=operations&sorting=mostRecent](https://thehub.io/jobs?countryCode=DK&roles=operations&sorting=mostRecent) | COO, Chief of Staff, Head of Operations |
+| **The Hub** | [thehub.io/jobs?countryCode=DK&roles=operations](https://thehub.io/jobs?roles=operations&sorting=mostRecent) | COO, Chief of Staff, Head of Operations |
 | **LinkedIn DK** | [dk.linkedin.com/jobs/chief-operating-officer-(coo)-jobs](https://dk.linkedin.com/jobs/chief-operating-officer-(coo)-jobs) | COO, VP Operations, Chief of Staff |
-| **Glassdoor DK** | [glassdoor.com/Job/denmark-chief-operating-officer-jobs](https://www.glassdoor.com/Job/denmark-chief-operating-officer-jobs-SRCH_IL.0,7_IN63_KO8,31.htm) | COO, Head of Operations |
-| **Jobindex** | [jobindex.dk/jobsoegning?q=coo](https://www.jobindex.dk/jobsoegning?q=coo) | COO, Chief of Staff |
+| **Jobindex** | [jobindex.dk/jobsoegning?q=coo](https://www.jobindex.dk/jobsoegning?q=coo) | COO, Chief of Staff — dansk marked |
 | **Wellfound** | [wellfound.com/location/denmark](https://wellfound.com/location/denmark) | Startup/scale-up ops roller |
-| **eifo.dk Jobs** | [jobs.eifo.dk](https://jobs.eifo.dk) | Scale-up og VC-backed companies |
-| **startup.jobs** | [startup.jobs/locations/denmark](https://startup.jobs/locations/denmark) | COO, Chief of Staff |
-| **Nordic Exec List** | [nordicexecutivelist.com](https://nordicexecutivelist.com/ledige-chefsstillinger/) | C-niveau og lederstillinger |
+| **eifo.dk Jobs** | [jobs.eifo.dk](https://jobs.eifo.dk) | VC-backed og scale-up companies i DK |
+| **startup.jobs** | [startup.jobs/locations/denmark](https://startup.jobs/locations/denmark) | COO, Chief of Staff — internationale startups |
+| **EU-Startups** | [eu-startups.com/startup-jobs](https://www.eu-startups.com/startup-jobs/) | Bredere europæisk/nordisk startup-dækning |
+| **Nordic Exec List** | [nordicexecutivelist.com](https://nordicexecutivelist.com/ledige-chefsstillinger/) | C-niveau og lederstillinger i Norden |
+| **Workable** | [jobs.workable.com](https://jobs.workable.com) | COO, Chief of Staff — mange europæiske scale-ups bruger Workable som ATS |
 | **chiefofstaff.network** | [chiefofstaff.network/jobs](https://www.chiefofstaff.network/jobs) | Chief of Staff globalt |
-| **The Hub SE** | [thehub.io/jobs/location/sweden/stockholm](https://thehub.io/jobs/location/sweden/stockholm) | CoS, COO, Head of Ops i Stockholm |
-| **Legora Careers** | [legora.com/careers](https://legora.com/careers) | Aktiv CoS-stilling — gå til "Open roles" |
 
 ---
 
@@ -298,6 +297,7 @@ Disse virksomheder passer til profilen og er i vækst/transformationsfase — ov
 | **Trustpilot** | Review platform, Kbh-baseret, 900+ ansatte | Stor nok til Head of Operations-rolle |
 | **Corti** | AI healthcare-platform (klinisk AI), 134 ansatte, Series B ($93M), Kbh-baseret | Vokser men ingen aktive ops-roller nu — direktehenvendelse mulig som operations-profil |
 | **Cernel** | AI til e-commerce infrastruktur (agentic commerce), 17 ansatte, €4M Seed (feb 2026), Aarhus | For lille nu men vokser — sæt på radar til efterår 2026 |
+| **Veo Technologies** | AI sportskamera, ~380 ansatte, 5 globale kontorer (Kbh, Miami, London, Berlin, Tokyo), stærk vækst | Søgte CoS til CPTO (lukket juni 2026) — behovet opstår sandsynligvis igen. Find CPTO på LinkedIn |
 
 ---
 
@@ -308,6 +308,8 @@ Disse virksomheder passer til profilen og er i vækst/transformationsfase — ov
 - **Performativ** er den stærkeste nuværende match på alle parametre — direkte henvendelse anbefales stærkt selvom opslaget er lukket.
 - **The Hub** og **LinkedIn** er de mest opdaterede kilder for startup/scale-up stillinger.
 - **Interim/fractional**-markedet er dårligt dækket af aggregatorer i DK — overvej direkte outreach til VC-netværk (fx CVX Ventures, eifo.dk) som vej til interim-mandater.
-- **Stockholm** er et oplagt næste marked at søge i — Legora-fundet viser, at svenske unicorns rekrutterer CoS-profiler med samme DNA som denne profil. The Hub (thehub.io/jobs/location/sweden/stockholm) og startup.jobs/locations/sweden er relevante at overvåge.
+- **Stockholm** forbliver stærkeste nordiske alternativ — Legora er den oplagte outreach-kandidat ($100M+ ARR, Series D). The Hub (thehub.io/jobs/location/sweden/stockholm) og startup.jobs/locations/sweden er relevante at overvåge.
 - **Glassdoor, startup.jobs og Wellfound** blokerer for scraping — brug dem direkte i browser til manuelle søgninger for COO/CoS i DK/SE/NO.
-- **Juni 2026 søgerunde:** Søgt bredt across DK og Norden. Eneste nye aktive rolle fundet: Legora CoS (Stockholm). Markedet bekræfter igen, at DK-markedet for disse roller er tyndt — proaktiv outreach er fortsat bedste strategi.
+- **Søgemaskiner cacher lukkede opslag i måneder** — aldrig stol på søgeresultater alene. Bekræft altid på selve virksomhedens jobside eller ATS (Ashby/Greenhouse/Lever). Legora CoS-opslaget (b2c2e7a3) dukkede op i June 2026-søgeresultater men var reelt 404.
+- **Veo Technologies** (AI sportskamera, ~380 ansatte, Copenhagen) er en stærk proaktiv outreach-kandidat — søgte CoS til CPTO (lukket), men virksomhedens vækst og profil passer. Find CPTO på LinkedIn.
+- **Juni 2026 søgerunde:** Bekræftede at CIP Strategy Manager/CoS stadig er aktiv (LinkedIn, opslået 2 dage siden). Teton AI Operations & Strategy, kapa.ai Operations Lead og Veo Technologies CoS til CPTO — alle bekræftet lukkede. Legora CoS dukkede op i søgning men URL bekræftet 404. DK/Norden-markedet for disse roller er tyndt — proaktiv outreach er fortsat bedste strategi.
