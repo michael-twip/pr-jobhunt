@@ -10,7 +10,7 @@ Søgning baseret på profil: COO / VP Operations / Head of Strategy & Operations
 | Prioritet | Stilling | Virksomhed | Handling | Deadline |
 |---|---|---|---|---|
 | **🔴 1** | COO (lukket opslag) | Performativ | Direkte henvendelse til CEO nu | ASAP |
-| **🔴 2** | Chief of Staff | CVX Ventures | Ansøg via Greenhouse | Inden 2 uger |
+| **⚪ —** | Chief of Staff (lukket) | CVX Ventures | Lukket — market intelligence only | — |
 | **🔴 3** | Strategy Manager → CoS | CIP | Ansøg via CIP Workday portal | Inden 2 uger |
 | **🟡 4** | COO/Head of Ops (lukket) | GreenMobility | Direkte mail til CEO Thomas Heltborg Juul | Inden 1 måned |
 | **🟡 5** | Chief of Staff (lukket) | Sanna | Direkte henvendelse til CEO | Inden 1 måned |
@@ -23,7 +23,7 @@ Søgning baseret på profil: COO / VP Operations / Head of Strategy & Operations
 ## 🟢 Aktive / Potentielt Aktive Stillinger
 
 ### 1. Chief of Staff — CVX Ventures
-**Status:** `Evalueret — ANSØG NU`
+**Status:** `LUKKET`
 **Virksomhed:** CVX Ventures (Europas "hurtigst voksende" venture investor-netværk — 700+ angel-investorer, DKK 800M+ investeret i 100+ virksomheder)
 **Lokation:** København
 **Kontrakttype:** Fuldtid
