@@ -18,6 +18,18 @@ Make sure to respect the found_jobs file statuses. If status have been set to re
 
 Do not include opportunities that are  marked as closed in any of the job search platforms or databases, unless the opportunity is still open according to the company website, the position has a high chance it might be reopened or there's an extremely good reason to include it.
 
+## Verification Step — Required Before Adding Any Match
+
+Before adding a job opportunity to `found_jobs.md`, you **must** verify that the position is genuinely open using at least two of the following methods:
+
+1. **Fetch the company's own careers page** (e.g. `company.com/careers`) and confirm the role is listed there right now.
+2. **Fetch the direct job posting URL** and confirm it does not show "removed", "expired", "no longer available", or similar language.
+3. **Check a secondary source** (e.g. builtin.com, LinkedIn, Glassdoor, greenhouse.io, ashbyhq.com) and confirm the listing is active — not cached or closed.
+
+Search engines (Google, Bing) cache job postings for months after they are removed. A job that appears in search results is **not** confirmed active — the original page must be fetched and verified. Do not rely on a search snippet alone.
+
+If a listing cannot be confirmed open on the company's own site or a live job board, mark it as `Lukket` and move it to the market intelligence section rather than the active section.
+
 Stop if you have found 50 job opportunities or if you have exhausted all relevant job search platforms and databases. The `find-jobs` skill will prioritize quality over quantity, ensuring that the job listings it provides are highly relevant and aligned with the user's profile and location.
 
 

@@ -1,26 +1,66 @@
 # Fundne Job Muligheder
-*Opdateret: 6. juni 2026 — Evalueringsrunde gennemført*
+*Opdateret: 7. juni 2026 — Ny søgerunde gennemført*
 
 Søgning baseret på profil: COO / VP Operations / Head of Strategy & Operations / Chief of Staff — nordisk/europæisk tech/SaaS scale-up (50–500 medarbejdere), vækst- eller transformationsfase. Geografisk fokus: Sjælland og Norden. Åben for remote og rejse.
 
 ---
 
-## 🎯 Prioriteret Handlingsplan (opdateret 6. juni 2026)
+## 🎯 Prioriteret Handlingsplan (opdateret 7. juni 2026)
 
 | Prioritet | Stilling | Virksomhed | Handling | Deadline |
 |---|---|---|---|---|
 | **🔴 1** | COO (lukket opslag) | Performativ | Direkte henvendelse til CEO nu | ASAP |
 | **🔴 2** | Chief of Staff | CVX Ventures | Ansøg via Greenhouse | Inden 2 uger |
 | **🔴 3** | Strategy Manager → CoS | CIP | Ansøg via CIP Workday portal | Inden 2 uger |
-| **🟡 4** | COO/Head of Ops (lukket) | GreenMobility | Direkte mail til CEO Thomas Heltborg Juul | Inden 1 måned |
-| **🟡 5** | Chief of Staff (lukket) | Sanna | Direkte henvendelse til CEO | Inden 1 måned |
-| **⚪ 6** | Chief of Staff (lukket) | proprty.ai | Lav-prioritet — for lille | Evt. |
-| **⚪ 7** | Head of Op. Transformation (lukket) | CPH | Lukket — market intelligence only | — |
-| **⚪ 8** | Sr. Manager Strategy & Ops (lukket) | Visa/Pismo | Lukket — market intelligence only | — |
+| **⚪ 4** | Chief of Staff (lukket) | Legora | Lukket — proaktiv henvendelse til Head of Ops | — |
+| **🟡 5** | COO/Head of Ops (lukket) | GreenMobility | Direkte mail til CEO Thomas Heltborg Juul | Inden 1 måned |
+| **🟡 6** | Chief of Staff (lukket) | Sanna | Direkte henvendelse til CEO | Inden 1 måned |
+| **⚪ 7** | Chief of Staff (lukket) | proprty.ai | Lav-prioritet — for lille | Evt. |
+| **⚪ 8** | Head of Op. Transformation (lukket) | CPH | Lukket — market intelligence only | — |
+| **⚪ 9** | Sr. Manager Strategy & Ops (lukket) | Visa/Pismo | Lukket — market intelligence only | — |
 
 ---
 
 ## 🟢 Aktive / Potentielt Aktive Stillinger
+
+### 0. Chief of Staff — Legora AB
+**Status:** `Evalueret — Lukket (bekræftet 7. juni 2026)`
+**Virksomhed:** Legora AB — AI-native workspace for juridiske fagfolk. Brugt af Cleary Gottlieb, Goodwin, Bird & Bird og Linklaters i 50+ markeder. Tidligere kendt som Leya.
+**Lokation:** Stockholm, Sverige
+**Kontrakttype:** Fuldtid
+**Løn:** Ikke oplyst
+**Opslaget:** Opslaget fjernet — sandsynligvis besat
+**Kilde:** [legora.com/careers](https://legora.com/careers) (kun Staff Engineer-roller synlige pr. 7. juni 2026)
+
+**Virksomhedens profil:**
+- Grundlagt 2023, Stockholm-baseret
+- Funding: $866M samlet rejst — seneste runde $550M Series D (april 2026)
+- Valuation: ~$5,6 mia. USD (unicorn)
+- ~400 ansatte globalt (Stockholm, London, New York, Denver, Sydney, Bengaluru)
+- Vokser hurtigt mod USA-markedet, men har stærk europæisk base
+
+**Beskrivelse (rolle):**
+Chief of Staff til Head of Operations og management team. Rollen er beskrevet som "operator, force multiplier, and trusted partner across Legora's operations." Formentlig indebærer det:
+- Eksekvering af strategiske initiativer på tværs af organisationen
+- Forberedelse af executive-materialer og governance
+- Drifte tværfunktionelle projekter i en hypervoksende unicorn
+
+**Detaljeret Evaluering:**
+
+| Dimension | Score | Kommentar |
+|---|---|---|
+| Rolle-fit | ⭐⭐⭐⭐ | Chief of Staff til Head of Operations er en target-rolle. Force multiplier-framing er stærk |
+| Virksomheds-fit | ⭐⭐⭐⭐ | AI-native SaaS, ~400 ansatte (i profil-vinduet), hypervækst-unicorn. Legaltech-domænet er nyt, men AI + enterprise SaaS er direkte relevant |
+| Geografi | ⭐⭐⭐ | Stockholm — inden for "Norden"-kriterie, men kræver relokering eller pendling. Ca. 1 time med fly fra København |
+| Kultur | ⭐⭐⭐⭐ | Hurtigtvoksende unicorn, entrepreneuriel, international. Sandsynligvis høj pace og ambitiøst miljø |
+| Kompensation | ⭐⭐⭐⭐⭐ | Unicorn-equity er potentielt meget værdifuldt. Legora på vej mod børsnotering el. exit |
+| Strategisk værdi | ⭐⭐⭐⭐⭐ | CoS i $5,6 mia. unicorn er ekstremt stærkt CV-skridt — åbner døre i hele det europæiske scale-up-miljø |
+
+**Vurdering:** ⭐⭐⭐⭐ — Legora er én af Europas mest imponerende scale-ups (unicorn, $5,6 mia. valuation, 400 ansatte). Rollen er lukket, men Legora er stærk kandidat til proaktiv henvendelse — de vokser hurtigt og behovet for operationel ledelse vil komme igen. **Relevante kontakter:** "Vilgot" er nævnt som Head of Ops — find via LinkedIn.**
+
+**Proaktiv outreach:** Legora vokser kraftigt og har sandsynligvis løbende behov for operationelt lederskab. Henvendelse til Head of Operations (Vilgot) om kommende CoS/ops-roller kan være værd at forsøge.
+
+---
 
 ### 1. Chief of Staff — CVX Ventures
 **Status:** `Evalueret — ANSØG NU`
@@ -293,6 +333,8 @@ Hold disse sider under løbende opsyn — roller i målgruppen dukker op og fors
 | **startup.jobs** | [startup.jobs/locations/denmark](https://startup.jobs/locations/denmark) | COO, Chief of Staff |
 | **Nordic Exec List** | [nordicexecutivelist.com](https://nordicexecutivelist.com/ledige-chefsstillinger/) | C-niveau og lederstillinger |
 | **chiefofstaff.network** | [chiefofstaff.network/jobs](https://www.chiefofstaff.network/jobs) | Chief of Staff globalt |
+| **The Hub SE** | [thehub.io/jobs/location/sweden/stockholm](https://thehub.io/jobs/location/sweden/stockholm) | CoS, COO, Head of Ops i Stockholm |
+| **Legora Careers** | [legora.com/careers](https://legora.com/careers) | Aktiv CoS-stilling — gå til "Open roles" |
 
 ---
 
@@ -309,6 +351,8 @@ Disse virksomheder passer til profilen og er i vækst/transformationsfase — ov
 | **Teton AI** | AI til healthcare/senior care, Kbh-baseret, Series A | Søgte Operations & Strategy (lukket maj 2026) — direkte henvendelse mulig |
 | **GreenMobility** | Elbil-deling, ~100 ansatte, 8 EU-byer | COO-opslag lukket — CEO Thomas Heltborg Juul kan kontaktes direkte |
 | **Trustpilot** | Review platform, Kbh-baseret, 900+ ansatte | Stor nok til Head of Operations-rolle |
+| **Corti** | AI healthcare-platform (klinisk AI), 134 ansatte, Series B ($93M), Kbh-baseret | Vokser men ingen aktive ops-roller nu — direktehenvendelse mulig som operations-profil |
+| **Cernel** | AI til e-commerce infrastruktur (agentic commerce), 17 ansatte, €4M Seed (feb 2026), Aarhus | For lille nu men vokser — sæt på radar til efterår 2026 |
 
 ---
 
@@ -319,3 +363,6 @@ Disse virksomheder passer til profilen og er i vækst/transformationsfase — ov
 - **Performativ** er den stærkeste nuværende match på alle parametre — direkte henvendelse anbefales stærkt selvom opslaget er lukket.
 - **The Hub** og **LinkedIn** er de mest opdaterede kilder for startup/scale-up stillinger.
 - **Interim/fractional**-markedet er dårligt dækket af aggregatorer i DK — overvej direkte outreach til VC-netværk (fx CVX Ventures, eifo.dk) som vej til interim-mandater.
+- **Stockholm** er et oplagt næste marked at søge i — Legora-fundet viser, at svenske unicorns rekrutterer CoS-profiler med samme DNA som denne profil. The Hub (thehub.io/jobs/location/sweden/stockholm) og startup.jobs/locations/sweden er relevante at overvåge.
+- **Glassdoor, startup.jobs og Wellfound** blokerer for scraping — brug dem direkte i browser til manuelle søgninger for COO/CoS i DK/SE/NO.
+- **Juni 2026 søgerunde:** Søgt bredt across DK og Norden. Eneste nye aktive rolle fundet: Legora CoS (Stockholm). Markedet bekræfter igen, at DK-markedet for disse roller er tyndt — proaktiv outreach er fortsat bedste strategi.
