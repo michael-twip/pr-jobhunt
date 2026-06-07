@@ -9,14 +9,21 @@ Søgning baseret på profil: COO / VP Operations / Head of Strategy & Operations
 
 | Prioritet | Stilling | Virksomhed | Handling | Deadline |
 |---|---|---|---|---|
-| **🔴 1** | COO (lukket opslag) | Performativ | Direkte henvendelse til CEO nu | ASAP |
-| **⚪ —** | Chief of Staff (lukket) | CVX Ventures | Lukket — market intelligence only | — |
-| **🔴 3** | Strategy Manager → CoS | CIP | Ansøg via CIP Workday portal | Inden 2 uger |
-| **🟡 4** | COO/Head of Ops (lukket) | GreenMobility | Direkte mail til CEO Thomas Heltborg Juul | Inden 1 måned |
-| **🟡 5** | Chief of Staff (lukket) | Sanna | Direkte henvendelse til CEO | Inden 1 måned |
-| **⚪ 6** | Chief of Staff (lukket) | proprty.ai | Lav-prioritet — for lille | Evt. |
-| **⚪ 7** | Head of Op. Transformation (lukket) | CPH | Lukket — market intelligence only | — |
-| **⚪ 8** | Sr. Manager Strategy & Ops (lukket) | Visa/Pismo | Lukket — market intelligence only | — |
+| **🔴 1** | Strategy Manager → CoS | CIP | Ansøg via CIP Workday portal | Inden 2 uger |
+
+---
+
+## ❌ Lukkede Stillinger — Opfølgning
+
+| Stilling | Virksomhed | Status | Note |
+|---|---|---|---|
+| COO (lukket opslag) | Performativ | Direkte henvendelse til CEO — afventer svar | 🔴 Høj prioritet — følg op |
+| COO/Head of Ops | GreenMobility | Direkte mail til CEO Thomas Heltborg Juul | 🟡 Inden 1 måned |
+| Chief of Staff | Sanna | Direkte henvendelse til CEO | 🟡 Inden 1 måned |
+| Chief of Staff | CVX Ventures | Lukket | ⚪ Markedsinformation |
+| Chief of Staff | proprty.ai | Lav-prioritet | ⚪ Evt. |
+| Head of Op. Transformation | CPH | Lukket | ⚪ Markedsinformation |
+| Sr. Manager Strategy & Ops | Visa/Pismo | Lukket | ⚪ Markedsinformation |
 
 ---
 
